@@ -1,0 +1,23 @@
+#features .row {
+    margin: 100px auto;
+    text-align: center;
+}
+
+#features p {
+    color: #8f8f8f;
+    width: 40%;
+    margin: 0 auto;
+}
+
+#features h3 {
+    font-size: 1.5rem;
+    font-family:'Montserrat' ;
+}
+
+.colums {
+    padding-bottom: 15%;
+    margin: 0%;
+}
+.colums i:hover {
+    color: #ff4c68;
+}
